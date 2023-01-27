@@ -1,1 +1,1 @@
-# Weather-App
+In This project you can search an Weather by the Name of city,country,This project is Craete using HTML,CSS and Javascript.afetr searching name of City/Country then it will gave temperature and Weather Report like cloudy,Sunny,Smoky etc. You can see the demo by clicking on below Link:
